@@ -1,6 +1,6 @@
 # 自制图片墙 表白文字生成器
 
-![表白文字生成器]([link_to_project_image](https://github.com/ZhuChyu-Sebastian/-/edit/main/520.jpg))
+![表白文字生成器](https://github.com/ZhuChyu-Sebastian/photo_wall/edit/main/520.jpg)
 
 ## 项目简介
 该项目**复现**了下面B站视频的代码。
