@@ -11,7 +11,7 @@
 一键运行python文件
 
 ## 教程
-[![Watch the video](link_to_video_thumbnail)](https://www.bilibili.com/video/BV1no4y1U7Bk/?share_source=copy_web&vd_source=a49a734fc25868cf63b256fe4c650076)
+[Watch the video](https://www.bilibili.com/video/BV1no4y1U7Bk/?share_source=copy_web&vd_source=a49a734fc25868cf63b256fe4c650076)
 点击上方图片查看演示视频。
 
 ## 注意事项
