@@ -12,7 +12,7 @@
 
 ## 教程
 [Watch the video](https://www.bilibili.com/video/BV1no4y1U7Bk/?share_source=copy_web&vd_source=a49a734fc25868cf63b256fe4c650076)
-点击上方图片查看演示视频。
+点击B站链接查看教程和演示视频。
 
 ## 注意事项
 
@@ -20,5 +20,5 @@
 
 ## 联系作者
 
-如果你有任何问题或建议，欢迎联系作者
+如果你有任何问题或建议，欢迎联系作者！
 感谢使用表白文字生成器！
